@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adipt60&show_icons=true&locale=en&layout=compact" alt="adipt60" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adipt60&show_icons=true&locale=en" alt="adipt60" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adipt60&show_icons=true&theme=radical&count_private=true" alt="adipt60" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=Adipt60&theme=dark" alt="adipt60" /></p>
