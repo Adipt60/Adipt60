@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adipt60&label=Profile%20views&color=0e75b6&style=flat" alt="adipt60" /> </p>
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Flutter App Development**
 
 - 📫 How to reach me **adipt1660@gmail.com**
 
